@@ -1,4 +1,4 @@
-Hello — I'm a Web, Cloud, and 3D game developer.
+Hello — I'm a professional Web and Cloud developer, and 3D game building hobbyist.
 
 ## All of my links 🔗:
 - My public learning projects at <a href="https://csarko.sh">csarko.sh</a> ✍️
