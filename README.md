@@ -1,4 +1,6 @@
-Hello — I'm a professional Cloud and Web developer, and 3D game building hobbyist
+Hello, 
+
+I'm Cyrus — a professional Cloud and Web developer, and 3D game building hobbyist
 
 
 
