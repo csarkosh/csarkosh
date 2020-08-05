@@ -1,4 +1,5 @@
-<img SRC="./68747470733a2f2f692e696d6775722e636f6d2f586e6b5262586a2e706e67.png" />
+<img src="https://imgur.com/mYn8Toe.png" />
+
 Hey, I'm Cyrus — a professional Cloud and Web developer, and 3D game building hobbyist
 
 ## All of my links 🔗🌎:
