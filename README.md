@@ -1,8 +1,9 @@
-<img src="https://imgur.com/mYn8Toe.png" />
+### Hi, I'm Cyrus
 
-Hey, I'm Cyrus — a professional Cloud and Web developer, and 3D game building hobbyist
+Senior software engineer in New York. In my spare time I build **multiplayer games that run in the browser** and write about what I learn along the way.
 
-## All of my links 🔗🌎:
--  ✍️📱 My public learning projects at <a href="https://csarko.sh">csarko.sh</a>
-- 🧑‍💻📄 Capturing my learnings in text on <a href="https://medium.com/@csarkosh">Medium</a>
-- 👷‍♂️🛠 My current project at <a href="https://babylonjs-fps-demo.csarko.sh">babylonjs-fps-demo.csarko.sh</a>
+- **[Day Hike](https://games.csarko.sh/dayhike/)**: a co-op survival horror game you play from a link. No install, no account, no server bill.
+- **[electron-gamepatch](https://github.com/csarkosh/electron-gamepatch)**: official Electron releases, patched to remove game-hostile browser behavior.
+- **[csarko.log](https://csarko.substack.com/)**: my technical journal, covering what I've learned across AI, systems, and games.
+
+More at **[csarko.sh](https://csarko.sh)** · [LinkedIn](https://www.linkedin.com/in/csarkosh)
